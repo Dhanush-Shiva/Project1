@@ -1,0 +1,7 @@
+Created second program
+git clone (Link) ->To import the project
+git status ->To view the file status
+git add (file_name) ->To add the file to the staging area
+git commit -m("commit message") ->To add the file to the copy git folder
+git push origin main ->To reflect changes into the github
+origin is the original project link and the main is the sub folder 

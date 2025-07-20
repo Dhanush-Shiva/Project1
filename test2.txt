@@ -4,4 +4,11 @@ git status ->To view the file status
 git add (file_name) ->To add the file to the staging area
 git commit -m("commit message") ->To add the file to the copy git folder
 git push origin main ->To reflect changes into the github
-origin is the original project link and the main is the sub folder 
+origin is the original project link and the main is the sub folder
+
+Same method for deleting 
+git pull ->To reflect the changes in the website to the vsc
+git init ->Initialize empty git repository
+git add . ->Move all the modified files to staging area
+git branch ->master
+git branch -M main ->To change file_name

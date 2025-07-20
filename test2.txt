@@ -11,4 +11,4 @@ git pull ->To reflect the changes in the website to the vsc
 git init ->Initialize empty git repository
 git add . ->Move all the modified files to staging area
 git branch ->master
-git branch -M main ->To change file_name
+git branch -M main ->To change file_name.
